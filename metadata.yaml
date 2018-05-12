@@ -1,0 +1,37 @@
+_repo: The-Japanese-Spirit_34341
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Meredith, George
+    birthdate: 1828
+    deathdate: 1909
+    gutenberg_agent_id: '520'
+    url: http://www.gutenberg.org/2009/agents/520
+    wikipedia: http://en.wikipedia.org/wiki/George_Meredith
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Okakura, Yoshisaburo
+    alias: 岡倉由三郎
+    birthdate: 1868
+    deathdate: 1936
+    gutenberg_agent_id: '36965'
+    url: http://www.gutenberg.org/2009/agents/36965
+description: ''
+gutenberg_issued: '2010-11-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34341'
+  lccn: '05012222'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan -- Civilization'
+- !lcsh 'Ethics -- Japan'
+- !lcc 'DS'
+title: The Japanese Spirit
+url: http://www.gutenberg.org/ebooks/34341
