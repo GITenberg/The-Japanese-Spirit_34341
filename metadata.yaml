@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '36965'
     url: http://www.gutenberg.org/2009/agents/36965
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34341#The-Japanese-Spirit
 gutenberg_issued: '2010-11-16'
 gutenberg_type: Text
 identifiers:
